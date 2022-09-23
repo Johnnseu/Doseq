@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 headers_useragents = list()
 headers_useragents.append("Mozilla/5.0 (Linux; Android 9; JKM-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Mobile Safari/537.36")
 headers_useragents.append("Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0) Opera 12.14")
@@ -3325,4 +3324,3 @@ headers_referers.append('https://play.google.com/store/search?q=')
 headers_referers.append('http://www.google.com/?q=')
 headers_referers.append('http://www.usatoday.com/search/results?q=')
 headers_referers.append("http://validator.w3.org/check?uri=")
-headers_referers.append("")
