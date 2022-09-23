@@ -288,6 +288,8 @@ OPTIONS:
     | -S/--sleep    <sleep time in seconds>                   ::> Specify sleep time between started threads Default(0s) (Optional)
     |--------
     | -D/--debug                                              ::> Show more output Default(disabled) (Optional)
+    |--------
+    | -u/--update                                             ::> Update Doseq script to latest version
 -------------
 Examples:
         |
